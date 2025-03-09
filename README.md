@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack Developer | MERN | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img alt="Coder GIF" height=400 width=450 object="cover" src="http://res.cloudinary.com/dtoxsgtel/image/upload/v1741520020/sit91izp4o13esjbunle.gif" />
+  <img alt="Coder GIF" height=400 width=450 style="object-fit: cover; width: 450px; height: 400px; display: block;" src="http://res.cloudinary.com/dtoxsgtel/image/upload/v1741520020/sit91izp4o13esjbunle.gif" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ansarimdrizwan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
